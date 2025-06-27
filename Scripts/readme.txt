@@ -1,1 +1,1 @@
-This file contain guide for ussing script
+This file contain guide for using script
